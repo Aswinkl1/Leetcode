@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Aswinkl1/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aswinkl1/Leetcode/tree/master/0242-valid-anagram) |
+| [0551-student-attendance-record-i](https://github.com/Aswinkl1/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Sorting
 |  |
 | ------- |
