@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aswinkl1/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Aswinkl1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aswinkl1/Leetcode/tree/master/0242-valid-anagram) |
 | [0551-student-attendance-record-i](https://github.com/Aswinkl1/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Sorting
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Aswinkl1/Leetcode/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aswinkl1/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
