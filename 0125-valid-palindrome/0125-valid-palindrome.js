@@ -3,18 +3,28 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    let alpha = new  Set(["a","b","c","d","e","f","g","h","i",'j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','0','1','2','3','4','5','6','7','8','9'])
-//    let pal = s.split(" ").join("").toLowerCase()
+    let st = 0
+    let end = s.length -1
+    while(st < end){
+        while(st < end && !isAlphaNum(s[st])){
+            st++
+        }
 
-   let res =""
-   for(let ch of s.toLowerCase()){
-        console.log(ch)
-    if(alpha.has(ch)){
-        res+= ch
+        while(st < end && !isAlphaNum(s[end])){
+            end--
+        }
+
+        if(s[st].toLowerCase() != s[end].toLowerCase()){
+            return false
+        }
+        st++
+        end--
     }
-   }
+    return true
 
-   let rev = res.split("").reverse().join("")
-   console.log(res,rev)
-   return rev == res
+    function isAlphaNum(c){
+        return ((c >="a" && c<="z")||
+        (c >= "A" && c <="Z")||
+        (c >= "0" && c <= "9"))
+    }
 };
