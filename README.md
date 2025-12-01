@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aswinkl1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aswinkl1/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Aswinkl1/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
