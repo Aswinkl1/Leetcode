@@ -9,10 +9,7 @@ var maxArea = function(height) {
     while(l < r){
         let min = Math.min(height[l],height[r]) 
         let area = (r-l) * min
-
-        if(max_area < area){
-            max_area = area
-        }
+        max_area = Math.max(area,max_area)
 
         if(height[l] == min){
             l++
