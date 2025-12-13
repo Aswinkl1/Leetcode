@@ -11,14 +11,14 @@ var containsNearbyDuplicate = function(nums, k) {
         let abs = Math.abs(i - fre[nums[i]])
         console.log(abs,i)
         if(abs <= k){
-            res = true
+            return true
         }
-                fre[nums[i]] = i
+        fre[nums[i]] = i
 
     }else{
         fre[nums[i]] = i
     }
    }
    console.log(fre)
-   return res
+   return false
 };
