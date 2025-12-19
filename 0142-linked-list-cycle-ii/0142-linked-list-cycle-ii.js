@@ -15,7 +15,7 @@ var detectCycle = function(head) {
     let set = new Map()
     let count = 0
     while(head?.next){
-        console.log(head.val)
+        // console.log(head.val)
         // if(set.has(head.val +""+(head?.next?.val ?? ""))){
             if(set.has(head)){
             return head
