@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aswinkl1/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aswinkl1/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Aswinkl1/Leetcode/tree/master/0069-sqrtx) |
 | [2413-smallest-even-multiple](https://github.com/Aswinkl1/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
