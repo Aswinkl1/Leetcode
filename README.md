@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aswinkl1/Leetcode/tree/master/0242-valid-anagram) |
 | [0551-student-attendance-record-i](https://github.com/Aswinkl1/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Aswinkl1/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3110-score-of-a-string](https://github.com/Aswinkl1/Leetcode/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
