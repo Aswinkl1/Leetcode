@@ -10,7 +10,6 @@ var search = function(nums, target) {
             return -1
         }
         let mid = l + Math.floor((r-l)/2)
-        console.log(mid)
         if(nums[mid] == target){
             return mid
         }
