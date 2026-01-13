@@ -3,28 +3,28 @@
  * @return {number}
  */
 var evalRPN = function(tokens) {
-    let stack = []
-    let operator = {"+":1,"-":1,"/":1,"*":1}
-    for(let i of tokens){
-        if(operator[i]){
-            let op1 = stack.pop()
-            let op2 = stack.pop()
-            if(i == "+"){
-                stack.push(op2+op1)
-                
-            }else if(i == "-"){
-                stack.push(op2 - op1)
+    let res = []
 
-            }else if(i == "*"){
-                stack.push(op2 * op1)
-
-            }else if(i == "/"){
-             
-                stack.push(Math.trunc(op2 / op1))
-            }
-        }else{
-            stack.push(+i)
+    for(let tok of tokens){
+        
+        if(+tok <= 0 || +tok >=0){
+            // console.log(tok)
+            res.push(parseInt(tok))
+            continue
         }
+        let op1 = res.pop()
+        let op2 = res.pop()
+        if(tok == "+"){
+            res.push(op2+op1)
+        }else if(tok == "-"){
+            res.push(op2 - op1)
+        }else if (tok == "/"){
+            res.push(parseInt(op2 / op1))
+        }else{
+            res.push(op2 * op1)
+        }
+
     }
-    return stack[0]
+    // console.log(res)
+    return res.pop()
 };
