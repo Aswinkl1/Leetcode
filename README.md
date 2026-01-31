@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aswinkl1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Aswinkl1/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aswinkl1/Leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Aswinkl1/Leetcode/tree/master/0860-lemonade-change) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aswinkl1/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aswinkl1/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Aswinkl1/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aswinkl1/Leetcode/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/Aswinkl1/Leetcode/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |
