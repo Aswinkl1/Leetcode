@@ -5,13 +5,11 @@
 var lemonadeChange = function(bills) {
     
     let balance = {5:0,10:0,20:0}
-    let lemonade = 5
     for(let bill of bills){
         let ret = bill - 5
         if(ret !=0 && balance[ret]){
             balance[ret] -= 1
             balance[bill] += 1
-            console.log(balance)
             continue
         }
 
@@ -27,13 +25,12 @@ var lemonadeChange = function(bills) {
                 balance[5] -= 1
                 ret -= 5
             }
-        console.log(bill,ret)
+        
         }
         if(ret != 0){
            return false
         }
         balance[bill] += 1
-        console.log(balance)
     }
 
     return true
