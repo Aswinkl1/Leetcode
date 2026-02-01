@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aswinkl1/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aswinkl1/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aswinkl1/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aswinkl1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aswinkl1/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aswinkl1/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aswinkl1/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aswinkl1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Aswinkl1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Aswinkl1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
