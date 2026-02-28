@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Aswinkl1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aswinkl1/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aswinkl1/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1920-build-array-from-permutation](https://github.com/Aswinkl1/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aswinkl1/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aswinkl1/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aswinkl1/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Aswinkl1/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aswinkl1/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Aswinkl1/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Aswinkl1/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
