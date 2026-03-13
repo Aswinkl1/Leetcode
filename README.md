@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Aswinkl1/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Aswinkl1/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Aswinkl1/Leetcode/tree/master/0860-lemonade-change) |
+| [0941-valid-mountain-array](https://github.com/Aswinkl1/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Aswinkl1/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aswinkl1/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aswinkl1/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
