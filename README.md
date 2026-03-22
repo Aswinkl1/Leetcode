@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Aswinkl1/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswinkl1/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2413-smallest-even-multiple](https://github.com/Aswinkl1/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Aswinkl1/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aswinkl1/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
